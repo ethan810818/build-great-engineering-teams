@@ -36,3 +36,9 @@ Tìm hiểu nhu cầu, mong muốn của họ và đặc biệt là sự thất 
 Mục tiêu của việc phát triển phần mềm không phải là một danh sách yêu cầu nhàm chán.
 Mục tiêu phải là biết và hiểu mục đích yêu cầu của họ.
 ```
+# Type 3:
+```
+Tư duy bậc hai có thể được sử dụng trong kỹ thuật phần mềm.
+Trước khi triển khai một tính năng phần mềm mới, hãy cân nhắc cách người dùng sẽ thích nghi hoặc sử dụng sai tính năng đó.
+Nó sẽ ảnh hưởng đến hiệu suất hoặc bảo mật hệ thống như thế nào?
+```
