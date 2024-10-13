@@ -42,3 +42,6 @@ Tư duy bậc hai có thể được sử dụng trong kỹ thuật phần mềm
 Trước khi triển khai một tính năng phần mềm mới, hãy cân nhắc cách người dùng sẽ thích nghi hoặc sử dụng sai tính năng đó.
 Nó sẽ ảnh hưởng đến hiệu suất hoặc bảo mật hệ thống như thế nào?
 ```
+# Type 4:
+```
+```
