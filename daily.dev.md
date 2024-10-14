@@ -43,5 +43,22 @@ Trước khi triển khai một tính năng phần mềm mới, hãy cân nhắc
 Nó sẽ ảnh hưởng đến hiệu suất hoặc bảo mật hệ thống như thế nào?
 ```
 # Type 4:
-```
+```java
+Principal Software Engineer (PSE)
+Mô tả: Đây là cấp độ cao nhất cho các cá nhân đóng vai trò kỹ thuật (IC) mà không cần tham gia vào quản lý nhân sự.
+Kinh nghiệm: Từ 12 năm trở lên.
+
+Vai trò và trách nhiệm:
+Đóng vai trò quan trọng trong việc định hình chiến lược kỹ thuật của công ty.
+Thiết kế và kiến trúc những hệ thống lớn, có quy mô và độ phức tạp cao.
+Là người cố vấn và nguồn tài nguyên cho toàn bộ công ty về các vấn đề kỹ thuật quan trọng.
+Được xem như một chuyên gia trong lĩnh vực của họ, ảnh hưởng đến sản phẩm, quy trình, và văn hóa kỹ thuật của công ty.
+Kỹ năng: Kiến thức sâu rộng, hiểu biết toàn diện về hệ sinh thái công nghệ và cách các công nghệ kết hợp với nhau.
+Có khả năng giải quyết các vấn đề kỹ thuật lớn và đưa ra giải pháp có tác động đến toàn bộ tổ chức.
+
+Tổng quan:
+Sự phát triển từ cấp độ SE1 đến PSE không chỉ phản ánh mức độ kinh nghiệm và kiến thức kỹ thuật
+mà còn cả khả năng đóng góp vào bức tranh lớn hơn của tổ chức.
+Các kỹ sư càng lên cao càng cần khả năng lãnh đạo,
+đưa ra quyết định chiến lược và có tầm ảnh hưởng lớn đến sự thành công của sản phẩm và công ty.
 ```
