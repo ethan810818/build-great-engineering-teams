@@ -62,3 +62,9 @@ mà còn cả khả năng đóng góp vào bức tranh lớn hơn của tổ ch�
 Các kỹ sư càng lên cao càng cần khả năng lãnh đạo,
 đưa ra quyết định chiến lược và có tầm ảnh hưởng lớn đến sự thành công của sản phẩm và công ty.
 ```
+# Type 5:
+```
+Văn hóa nhóm mạnh mẽ không phải là điều xảy ra trong một sớm một chiều - nó phát triển theo thời gian và chủ yếu được thúc đẩy bởi tính cách của các thành viên trong nhóm.
+Văn hóa nhóm lành mạnh cho phép các thành viên kết nối cảm xúc, nâng cao tinh thần và khiến công việc trở nên thú vị.
+Ngược lại, điều này sẽ tăng năng suất và cho phép họ xây dựng phần mềm tốt hơn
+```
